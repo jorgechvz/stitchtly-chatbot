@@ -1,0 +1,10 @@
+# Python Bytecode Files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment Variables
+.env
+
+# macOS-specific Files
+.DS_Store
